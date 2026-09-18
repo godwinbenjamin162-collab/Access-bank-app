@@ -1,0 +1,6 @@
+{
+  "name": "OPay",
+  "description": "OPay financial simulation and authentic SMS alert generator with Nigerian bank transfer and account verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
